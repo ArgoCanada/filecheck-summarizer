@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/godae/!svn/ver/1327/tags/argo/v2.6.03/bin/spec
+END
+ref_table-2a
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-2a
+END
+argo-metadata-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-metadata-spec-v3.1.cdl
+END
+argo-bio_config_names-spec-v3.1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-bio_config_names-spec-v3.1
+END
+generic_template_param
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/generic_template_param
+END
+argo-b_profile-spec-v3.1.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-b_profile-spec-v3.1.attr_regexp
+END
+argo-trajectory-spec-v2.2.opt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.2.opt
+END
+argo-trajectory-spec-v2.3.opt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.3.opt
+END
+ref_table-29.type
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-29.type
+END
+argo-technical-spec-v2.2.opt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v2.2.opt
+END
+argo-technical-spec-v2.3.opt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v2.3.opt
+END
+argo-profile-spec-v2.2.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v2.2.cdl
+END
+argo-b_profile-spec-v3.1.opt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-b_profile-spec-v3.1.opt
+END
+argo-profile-spec-v2.3.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v2.3.cdl
+END
+argo-tech_names-spec-v2.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_names-spec-v2.3
+END
+argo-tech_names-spec-v2.4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_names-spec-v2.4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/Makefile
+END
+measurement_code-specific_codes
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/measurement_code-specific_codes
+END
+argo-physical_params-spec-v2.2
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v2.2
+END
+argo-physical_params-spec-v2.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v2.3
+END
+ref_table-30.type
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-30.type
+END
+argo-metadata-spec-v3.1.opt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-metadata-spec-v3.1.opt
+END
+argo-profile-spec-v2.2.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v2.2.attr_regexp
+END
+argo-profile-spec-v2.3.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v2.3.attr_regexp
+END
+argo-trajectory-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v3.1.cdl
+END
+argo-b_trajectory-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-b_trajectory-spec-v3.1.cdl
+END
+argo-technical-spec-v3.0.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v3.0.cdl
+END
+argo-technical-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v3.1.cdl
+END
+ref_table-10
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-10
+END
+ref_table-16
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-16
+END
+argo-tech_units-spec-v2.4.deprecated
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v2.4.deprecated
+END
+argo-tech_units-spec-v2.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v2.3
+END
+ref_table-19
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-19
+END
+argo-tech_units-spec-v2.4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v2.4
+END
+argo-b_trajectory-spec-v3.1.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-b_trajectory-spec-v3.1.attr_regexp
+END
+argo-physical_params-spec-v2.2.aux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v2.2.aux
+END
+argo-physical_params-spec-v2.3.aux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v2.3.aux
+END
+ref_table-2
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-2
+END
+argo-metadata-spec-v2.2.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-metadata-spec-v2.2.cdl
+END
+ref_table-5
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-5
+END
+ref_table-6
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-6
+END
+ref_table-8
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-8
+END
+ref_table-9
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-9
+END
+ref_table-20
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-20
+END
+ref_table-30.style
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-30.style
+END
+measurement_code-juld_variables
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/measurement_code-juld_variables
+END
+argo-core_config_names-spec-v3.1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-core_config_names-spec-v3.1
+END
+argo-profile-spec-v3.0.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v3.0.cdl
+END
+argo-profile-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v3.1.cdl
+END
+ref_table-22
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-22
+END
+ref_table-23
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-23
+END
+generic_template_cycle_phase_name
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/generic_template_cycle_phase_name
+END
+argo-tech_units-spec-v3.0.deprecated
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v3.0.deprecated
+END
+ref_table-24
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-24
+END
+ref_table-29.manufacturer
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-29.manufacturer
+END
+ref_table-25
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-25
+END
+argo-tech_units-spec-v2.3.deprecated
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v2.3.deprecated
+END
+argo-tech_names-spec-v3.0
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_names-spec-v3.0
+END
+ref_table-26
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/ref_table-26
+END
+argo-tech_names-spec-v3.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_names-spec-v3.1
+END
+ref_table-27
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/godae/!svn/ver/1327/tags/argo/v2.6.03/bin/spec/ref_table-27
+END
+generic_template_short_sensor_name
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/generic_template_short_sensor_name
+END
+argo-physical_params-spec-v3.0
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v3.0
+END
+argo-physical_params-spec-v3.1
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v3.1
+END
+argo-profile-spec-v3.0.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v3.0.attr_regexp
+END
+argo-profile-spec-v3.1.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v3.1.attr_regexp
+END
+argo-trajectory-spec-v2.2.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.2.cdl
+END
+argo-trajectory-spec-v2.3.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.3.cdl
+END
+argo-technical-spec-v2.2.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v2.2.cdl
+END
+argo-technical-spec-v2.3.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v2.3.cdl
+END
+argo-technical-spec-v2.4.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-technical-spec-v2.4.cdl
+END
+argo-profile-spec-v3.1.opt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-profile-spec-v3.1.opt
+END
+argo-b_profile-spec-v3.1.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-b_profile-spec-v3.1.cdl
+END
+argo-tech_units-spec-v3.0
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v3.0
+END
+argo-tech_units-spec-v3.1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_units-spec-v3.1
+END
+argo-tech_names-spec-v3.1.deprecated
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-tech_names-spec-v3.1.deprecated
+END
+argo-trajectory-spec-v2.2.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.2.attr_regexp
+END
+argo-trajectory-spec-v2.3.attr_regexp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-trajectory-spec-v2.3.attr_regexp
+END
+argo-physical_params-spec-v3.0.aux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v3.0.aux
+END
+argo-physical_params-spec-v3.1.aux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/godae/!svn/ver/1306/tags/argo/v2.6.03/bin/spec/argo-physical_params-spec-v3.1.aux
+END
