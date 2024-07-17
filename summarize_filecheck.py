@@ -43,13 +43,13 @@ with open(parent / f'summary_{wmo}_{time}.txt', 'w') as f:
                     for e in root[4]:
                         f.write(f'\t-{e.text}\n')
     
-    nc = Dataset(list(Path(f'/Users/GordonC/Documents/data/Argo/dac/meds/D/{wmo}/profiles/').glob(f'BD{wmo}*.nc'))[0])
-    doxy_index = [bgc.io.read_ncstr(a) for a in nc['PARAMETER'][:].data[0,0,:,:]].index('DOXY')
+    nc = Dataset(list(Path(f'/Users/GordonC/Documents/data/Argo/dac/meds/E/{wmo}/profiles/').glob(f'BD{wmo}*.nc'))[0])
+    doxy_index = bgc.io.find_param(nc, 'DOXY')
     f.write('\nSCIENTIFIC_CALIB_COMMENT: ')
-    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_COMMENT"][:][0,-1,doxy_index,:])}')
+    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_COMMENT"][:][doxy_index[0],-1,doxy_index[1],:])}')
     f.write('\nSCIENTIFIC_CALIB_EQUATION: ')
-    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_EQUATION"][:][0,-1,doxy_index,:])}')
+    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_EQUATION"][:][doxy_index[0],-1,doxy_index[1],:])}')
     f.write('\nSCIENTIFIC_CALIB_COEFFICIENT: ')
-    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_COEFFICIENT"][:][0,-1,doxy_index,:])}')
+    f.write(f'{bgc.io.read_ncstr(nc["SCIENTIFIC_CALIB_COEFFICIENT"][:][doxy_index[0],-1,doxy_index[1],:])}')
 
     
